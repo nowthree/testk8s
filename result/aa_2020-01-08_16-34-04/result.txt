@@ -1,0 +1,3 @@
+Start to run test case: aa
+Run test step: 0_open_website ... Successful
+Run test step: 1_input_username ... Failed

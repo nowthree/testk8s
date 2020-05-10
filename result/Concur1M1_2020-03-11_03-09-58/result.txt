@@ -1,0 +1,4 @@
+Start to run test case: Concur1M1
+Run test step: 0_Log_in_Concur ... Successful
+Run test step: 1_Back_to_old_login_page ... Successful
+Run test step: 2_Input_user_name ... Failed

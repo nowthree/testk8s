@@ -1,0 +1,3 @@
+Start to run test case: SFSF EC Integration with S/4 HANA
+Run test step: 0_Open_SFSF_Webpage ... Successful
+Run test step: 1_Enter_username ... Failed
